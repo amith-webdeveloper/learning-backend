@@ -1,0 +1,17 @@
+{
+  "name": "data-modelling",
+  "version": "1.0.0",
+  "description": "learning data modelling in backend",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ./pages/server.js"
+  },
+  "author": "Amith Bhise",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.5.1"
+  }
+}
